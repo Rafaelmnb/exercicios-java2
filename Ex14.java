@@ -11,9 +11,8 @@ public class Ex14 {
         do {
             tentativas++;
 
-            System.out.println("\n╔══════════════════════════════════════════════════════╗");
-            System.out.println("║         QUESTAO DE MULTIPLA ESCOLHA - IHC/UX        ║");
-            System.out.println("╚══════════════════════════════════════════════════════╝");
+           
+            System.out.println("         QUESTAO DE MULTIPLA ESCOLHA - IHC/UX        ");
             System.out.println();
             System.out.println("Qual principio de usabilidade se preocupa em manter o");
             System.out.println("usuario sempre informado sobre o que esta acontecendo");
